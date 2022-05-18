@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\aigb_0900_mjs\git\sporing\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+83047521.index
