@@ -1,4 +1,4 @@
-package com.sporing.app.recriut.vo;
+package com.sporing.app.recruit.vo;
 
 public class recruitVO {
 	private int recriut_num;
